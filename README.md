@@ -10,7 +10,7 @@
 
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Bogdan Zogovic (vanta9001)</h1>
-<h3 align="center">Full-Stack Developer | game Dev | Cybersecurity</h3>
+<h3 align="center">Full-Stack Developer | Game Dev | Cybersecurity</h3>
 
 <p align="center">
   <a href="https://bogdanzogovic.vercel.app">
@@ -63,7 +63,7 @@ Here are some repositories I’ve worked on:
 | Project | Description |
 |---------|-------------|
 | [Large-Email-Database](https://github.com/vanta9001/Large-Email-Database) | Large dataset collection / OSINT testing |
-| [atlas-copy](https://github.com/Axion-Industries/WikiGPT) | TypeScript-based project |
+| [Wiki-GPT](https://github.com/Axion-Industries/WikiGPT) | TypeScript-based project |
 | [vanta9001](https://github.com/vanta9001/vanta9001) | This profile repository |
 
 ---
