@@ -10,10 +10,10 @@
 
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Bogdan Zogovic (vanta9001)</h1>
-<h3 align="center">Frontend Developer | UX/UI Enthusiast | Explorer of Forests & Games</h3>
+<h3 align="center">Full-Stack Developer | game Dev | Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://bogdanzogovic.onrender.com">
+  <a href="https://bogdanzogovic.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=firefox" alt="Portfolio">
   </a>
   <a href="mailto:bzogo7@gmail.com">
@@ -32,10 +32,10 @@ I'm a passionate web developer, designer, and lifelong learner. I enjoy creating
 - **Name:** Bogdan Zogovic  
 - **Username:** `vanta9001`  
 - **Location:** Miami, Florida  
-- **Languages:** Serbian · English · Spanish  
-- **Coding Skills:** HTML · CSS · JavaScript · TypeScript · Python · C# · PHP · SQL  
+- **Languages:** Serbian · English · Spanish · Chinese
+- **Coding Skills:** HTML · CSS · JavaScript · TypeScript · Python · C# · PHP · SQL · Json 
 - **Birthplace:** Podgorica, Montenegro  
-- **Hobbies:** Programming · Watching Anime · Photography · Hiking · Exploring · Carspotting  
+- **Hobbies:** Programming · Watching Anime · Photography · Hiking · Carspotting  
 - **Fun Facts:** Visited 10 countries · Plays Chess · Collects souvenirs from each trip
 
 ---
@@ -63,8 +63,7 @@ Here are some repositories I’ve worked on:
 | Project | Description |
 |---------|-------------|
 | [Large-Email-Database](https://github.com/vanta9001/Large-Email-Database) | Large dataset collection / OSINT testing |
-| [atlas-copy](https://github.com/vanta9001/atlas-copy) | TypeScript-based project |
-| [anime-archive](https://github.com/vanta9001/anime-archive) | HTML project archive |
+| [atlas-copy](https://github.com/vanta9001/hash) | TypeScript-based project |
 | [vanta9001](https://github.com/vanta9001/vanta9001) | This profile repository |
 
 ---
@@ -86,8 +85,9 @@ Here are some pictures I took:
 <!-- CONTACT -->
 ## 📬 Contact Me
 - Email: [bzogo7@gmail.com](mailto:bzogo7@gmail.com)  
-- Portfolio: [bogdanzogovic.onrender.com](https://bogdanzogovic.onrender.com)  
+- Portfolio: [bogdanzogovic.onrender.com](https://bogdanzogovic.vercel.app)  
 - Instagram: [@bogdanzogovic123](https://instagram.com/@bogdanzogovic123)
+- Threads: [@bogdanzogovic123](https://threads.net/@bogdanzogovic123)
 
 ---
 
