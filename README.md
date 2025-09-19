@@ -63,7 +63,7 @@ Here are some repositories I’ve worked on:
 | Project | Description |
 |---------|-------------|
 | [Large-Email-Database](https://github.com/vanta9001/Large-Email-Database) | Large dataset collection / OSINT testing |
-| [atlas-copy](https://github.com/vanta9001/hash) | TypeScript-based project |
+| [atlas-copy](https://github.com/Axion-Industries/WikiGPT) | TypeScript-based project |
 | [vanta9001](https://github.com/vanta9001/vanta9001) | This profile repository |
 
 ---
@@ -73,11 +73,11 @@ Here are some repositories I’ve worked on:
 Here are some pictures I took:
 
 <p align="center">
-  <img src="IMAGE_2877.JPG" alt="Image 1" width="200" style="margin:10px">
-  <img src="IMAGE_2877.JPG" alt="Image 2" width="200" style="margin:10px">
-  <img src="IMAGE_3983.JPG" alt="Image 3" width="200" style="margin:10px">
-  <img src="IMAGE_3683.JPG" alt="Image 4" width="200" style="margin:10px">
-  <img src="IMAGE_2882.JPG" alt="Image 5" width="200" style="margin:10px">
+  <img src="https://bogdanzogovic.vercel.app/photos/Wallpapers/IMG_2877.JPG" alt="Image 1" width="200" style="margin:10px">
+  <img src="https://bogdanzogovic.vercel.app/photos/Wallpapers/IMG_2882.JPG" alt="Image 2" width="200" style="margin:10px">
+  <img src="https://bogdanzogovic.vercel.app/photos/Wallpapers/IMG_3068.JPG" alt="Image 3" width="200" style="margin:10px">
+  <img src="https://bogdanzogovic.vercel.app/photos/Wallpapers/IMG_3683.JPG" alt="Image 4" width="200" style="margin:10px">
+  <img src="https://bogdanzogovic.vercel.app/photos/Wallpapers/IMG_3897.JPG" alt="Image 5" width="200" style="margin:10px">
 </p>
 
 ---
